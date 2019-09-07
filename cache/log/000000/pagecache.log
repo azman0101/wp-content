@@ -1,0 +1,110 @@
+[Sun, 23 Apr 2017 14:08:14 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb54e7d16f] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb537e791a&w3tc_note=flush_pgcache] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:08:16 +0000] [/wp-content/cache/minify/1737873341w3tc_rewrite_test.css] [https://www.karolinadantin.fr/wp-content/cache/minify/1737873341w3tc_rewrite_test.css] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:18 +0000] [/wp-admin/admin-ajax.php?action=atd_settings&ver=20150715] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb54e7d16f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:08:24 +0000] [/] [-] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:26 +0000] [/] [-] storing cached page: false original false reason User is logged in
+[Sun, 23 Apr 2017 14:08:26 +0000] [/wp-content/cache/minify/314c6.css] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:26 +0000] [/wp-content/cache/minify/21efd.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:26 +0000] [/wp-content/cache/minify/40959.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:26 +0000] [/wp-content/cache/minify/0d256.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:26 +0000] [/wp-content/cache/minify/21efd.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:08:26 +0000] [/wp-content/cache/minify/40959.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:08:26 +0000] [/wp-content/cache/minify/41ce5.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:26 +0000] [/wp-content/cache/minify/815b7.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/0d256.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/5ea90.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/815b7.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/bced8.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/314c6.css] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/428b3.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/41ce5.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/5ea90.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/bced8.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-admin/admin-ajax.php?action=w3tc_monitoring_score&6666cd76f96956469e7be39d750cc7d9] [https://www.karolinadantin.fr/] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-content/cache/minify/428b3.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:08:27 +0000] [/wp-admin/admin.php?page=stats&noheader&proxy&chart=admin-bar-hours-scale] [https://www.karolinadantin.fr/] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:08:29 +0000] [/wp-content/cache/minify/314c6.css] [-] start, can_cache: false
+[Sun, 23 Apr 2017 14:08:30 +0000] [/wp-content/cache/minify/314c6.css] [-] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:09:19 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb54e7d16f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:09:27 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_install] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:09:54 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_minify&w3tc_message=58fcb4fa96120] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:11:15 +0000] [/tree/] [-] start, can_cache: true
+[Sun, 23 Apr 2017 14:11:15 +0000] [/tree/] [-] no cache entry for 590382e138c6770b9e23f7d82700ff03_ssl
+[Sun, 23 Apr 2017 14:11:15 +0000] [/wp-cron.php?doing_wp_cron=1492956675.8690140247344970703125] [https://www.karolinadantin.fr/wp-cron.php?doing_wp_cron=1492956675.8690140247344970703125] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:11:17 +0000] [/tree/] [-] storing cached page: true original  true reason 
+[Sun, 23 Apr 2017 14:11:19 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb54e7d16f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:11:27 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_install] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:11:54 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_minify&w3tc_message=58fcb4fa96120] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:11:55 +0000] [/wp-cron.php?doing_wp_cron=1492956715.5699360370635986328125] [https://www.karolinadantin.fr/wp-cron.php?doing_wp_cron=1492956715.5699360370635986328125] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:13:19 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb54e7d16f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:13:27 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_install] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:13:54 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_minify&w3tc_message=58fcb4fa96120] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:14:28 +0000] [/] [-] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:30 +0000] [/] [-] storing cached page: false original false reason User is logged in
+[Sun, 23 Apr 2017 14:14:30 +0000] [/wp-content/cache/minify/314c6.css] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:30 +0000] [/wp-content/cache/minify/21efd.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:30 +0000] [/wp-content/cache/minify/40959.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:30 +0000] [/wp-content/cache/minify/41ce5.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:31 +0000] [/wp-content/cache/minify/21efd.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:31 +0000] [/wp-content/cache/minify/40959.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:31 +0000] [/wp-content/cache/minify/0d256.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:31 +0000] [/wp-content/cache/minify/815b7.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:31 +0000] [/wp-content/cache/minify/0d256.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:31 +0000] [/wp-content/cache/minify/815b7.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:31 +0000] [/wp-content/cache/minify/5ea90.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:31 +0000] [/wp-content/cache/minify/bced8.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:32 +0000] [/wp-content/cache/minify/314c6.css] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:32 +0000] [/wp-content/cache/minify/41ce5.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:32 +0000] [/wp-content/cache/minify/428b3.js] [https://www.karolinadantin.fr/] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:32 +0000] [/wp-content/cache/minify/5ea90.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:32 +0000] [/wp-content/cache/minify/bced8.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:32 +0000] [/wp-admin/admin.php?page=stats&noheader&proxy&chart=admin-bar-hours-scale] [https://www.karolinadantin.fr/] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:14:32 +0000] [/wp-admin/admin-ajax.php?action=w3tc_monitoring_score&6666cd76f96956469e7be39d750cc7d9] [https://www.karolinadantin.fr/] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:14:32 +0000] [/wp-content/cache/minify/428b3.js] [https://www.karolinadantin.fr/] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:34 +0000] [/wp-content/cache/minify/314c6.css] [-] start, can_cache: false
+[Sun, 23 Apr 2017 14:14:35 +0000] [/wp-content/cache/minify/314c6.css] [-] storing cached page - not a cached content
+[Sun, 23 Apr 2017 14:14:45 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_install] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:14:54 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_minify&w3tc_message=58fcb4fa96120] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:15:10 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb54e7d16f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:15:17 +0000] [/wp-admin/admin.php?page=w3tc_general] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb54e7d16f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:15:18 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb6f6490af] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb54e7d16f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:15:20 +0000] [/] [-] start, can_cache: false
+[Sun, 23 Apr 2017 14:15:21 +0000] [/wp-admin/admin-ajax.php?action=atd_settings&ver=20150715] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb6f6490af] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:15:22 +0000] [/] [-] storing cached page: false original false reason User is logged in
+[Sun, 23 Apr 2017 14:15:25 +0000] [/wp-admin/admin-ajax.php?action=w3tc_monitoring_score&6666cd76f96956469e7be39d750cc7d9] [https://www.karolinadantin.fr/] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:15:26 +0000] [/wp-admin/admin.php?page=stats&noheader&proxy&chart=admin-bar-hours-scale] [https://www.karolinadantin.fr/] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:15:34 +0000] [/] [-] start, can_cache: true
+[Sun, 23 Apr 2017 14:15:34 +0000] [/] [-] no cache entry for f86a90166b9bccff5da3cd74963bca21_ssl
+[Sun, 23 Apr 2017 14:15:35 +0000] [/] [-] storing cached page: true original  true reason 
+[Sun, 23 Apr 2017 14:15:45 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_install] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:15:50 +0000] [/] [-] start, can_cache: true
+[Sun, 23 Apr 2017 14:15:55 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_minify&w3tc_message=58fcb4fa96120] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:14 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb6f6490af] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb54e7d16f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:16 +0000] [/wp-admin/admin-ajax.php?action=atd_settings&ver=20150715] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb6f6490af] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:32 +0000] [/wp-admin/admin.php?page=w3tc_general] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb6f6490af] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:33 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7411f10f] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb6f6490af] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:35 +0000] [/wp-admin/admin-ajax.php?action=atd_settings&ver=20150715] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7411f10f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:40 +0000] [/wp-admin/admin.php?w3tc_flush_posts=y&page=w3tc_general&_wpnonce=ad0c720429] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7411f10f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:41 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7411f10f&w3tc_note=flush_pgcache] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7411f10f] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:42 +0000] [/wp-admin/admin-ajax.php?action=atd_settings&ver=20150715] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7411f10f&w3tc_note=flush_pgcache] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:43 +0000] [/wp-cron.php?doing_wp_cron=1492957003.2622070312500000000000] [https://www.karolinadantin.fr/wp-cron.php?doing_wp_cron=1492957003.2622070312500000000000] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:45 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_install] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:16:46 +0000] [/] [-] start, can_cache: true
+[Sun, 23 Apr 2017 14:16:46 +0000] [/] [-] no cache entry for f86a90166b9bccff5da3cd74963bca21_ssl
+[Sun, 23 Apr 2017 14:16:47 +0000] [/] [-] storing cached page: true original  true reason 
+[Sun, 23 Apr 2017 14:17:36 +0000] [/wp-admin/admin.php?page=w3tc_general] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7411f10f&w3tc_note=flush_pgcache] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:17:37 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb78119925] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7411f10f&w3tc_note=flush_pgcache] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:17:39 +0000] [/wp-admin/admin-ajax.php?action=atd_settings&ver=20150715] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb78119925] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:17:46 +0000] [/wp-admin/admin.php?w3tc_flush_posts=y&page=w3tc_general&_wpnonce=ad0c720429] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb78119925] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:17:46 +0000] [/wp-cron.php?doing_wp_cron=1492957066.8967139720916748046875] [https://www.karolinadantin.fr/wp-cron.php?doing_wp_cron=1492957066.8967139720916748046875] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:17:47 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb78119925&w3tc_note=flush_pgcache] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb78119925] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:17:49 +0000] [/wp-admin/admin-ajax.php?action=atd_settings&ver=20150715] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb78119925&w3tc_note=flush_pgcache] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:17:49 +0000] [/] [-] start, can_cache: true
+[Sun, 23 Apr 2017 14:17:49 +0000] [/] [-] no cache entry for f86a90166b9bccff5da3cd74963bca21_ssl
+[Sun, 23 Apr 2017 14:17:50 +0000] [/] [-] storing cached page: true original  true reason 
+[Sun, 23 Apr 2017 14:17:55 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_minify&w3tc_message=58fcb4fa96120] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:18:31 +0000] [/wp-admin/admin.php?page=w3tc_general] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb78119925&w3tc_note=flush_pgcache] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:18:32 +0000] [/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7b878137] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb78119925&w3tc_note=flush_pgcache] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:18:34 +0000] [/wp-admin/admin-ajax.php?action=atd_settings&ver=20150715] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7b878137] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:18:45 +0000] [/wp-admin/admin-ajax.php] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_install] skip processing because of generic constant
+[Sun, 23 Apr 2017 14:18:46 +0000] [/wp-admin/admin.php?page=w3tc_general] [https://www.karolinadantin.fr/wp-admin/admin.php?page=w3tc_general&w3tc_message=58fcb7b878137] skip processing because of generic constant

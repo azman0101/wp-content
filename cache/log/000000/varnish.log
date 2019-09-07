@@ -1,0 +1,12 @@
+[Sun, 23 Apr 2017 14:08:14 +0000] [https://www.karolinadantin.fr/.*] Connecting to 127.0.0.1 ...
+[Sun, 23 Apr 2017 14:08:14 +0000] [https://www.karolinadantin.fr/.*] PURGE /.* HTTP/1.1
+[Sun, 23 Apr 2017 14:08:14 +0000] [https://www.karolinadantin.fr/.*] Host: www.karolinadantin.fr
+[Sun, 23 Apr 2017 14:08:14 +0000] [https://www.karolinadantin.fr/.*] PURGE OK
+[Sun, 23 Apr 2017 14:16:41 +0000] [https://www.karolinadantin.fr/.*] Connecting to 127.0.0.1 ...
+[Sun, 23 Apr 2017 14:16:41 +0000] [https://www.karolinadantin.fr/.*] PURGE /.* HTTP/1.1
+[Sun, 23 Apr 2017 14:16:41 +0000] [https://www.karolinadantin.fr/.*] Host: www.karolinadantin.fr
+[Sun, 23 Apr 2017 14:16:41 +0000] [https://www.karolinadantin.fr/.*] PURGE OK
+[Sun, 23 Apr 2017 14:17:47 +0000] [https://www.karolinadantin.fr/.*] Connecting to 127.0.0.1 ...
+[Sun, 23 Apr 2017 14:17:47 +0000] [https://www.karolinadantin.fr/.*] PURGE /.* HTTP/1.1
+[Sun, 23 Apr 2017 14:17:47 +0000] [https://www.karolinadantin.fr/.*] Host: www.karolinadantin.fr
+[Sun, 23 Apr 2017 14:17:47 +0000] [https://www.karolinadantin.fr/.*] PURGE OK

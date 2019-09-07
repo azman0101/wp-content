@@ -1,0 +1,359 @@
+[02-Sep-2015 10:36:59 UTC] THIS IS THE START OF MY CUSTOM DEBUG
+[02-Sep-2015 10:36:59 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:36:59 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 45
+[02-Sep-2015 10:37:05 UTC] THIS IS THE START OF MY CUSTOM DEBUG
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 45
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:37:05 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:37:28 UTC] THIS IS THE START OF MY CUSTOM DEBUG
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 45
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:37:28 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:37:33 UTC] THIS IS THE START OF MY CUSTOM DEBUG
+[02-Sep-2015 10:37:33 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:37:33 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 45
+[02-Sep-2015 10:37:33 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:37:34 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:37:58 UTC] THIS IS THE START OF MY CUSTOM DEBUG
+[02-Sep-2015 10:37:58 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:37:58 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 45
+[02-Sep-2015 10:38:09 UTC] THIS IS THE START OF MY CUSTOM DEBUG
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 45
+[02-Sep-2015 10:38:09 UTC] THIS IS THE START OF MY CUSTOM DEBUG
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 45
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:38:09 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:39:10 UTC] /home/www1/wordpress/wp-content/themes
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:39:10 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:39:58 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 10:39:58 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:39:58 UTC] /home/www1/wordpress/wp-content/themes
+[02-Sep-2015 10:40:54 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 10:40:54 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:40:54 UTC] /home/www1/wordpress/wp-content/themes
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:41:07 UTC] ****************
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Use of undefined constant gr_preview_theme - assumed 'gr_preview_theme' in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 52
+[02-Sep-2015 10:41:07 UTC] accelerate
+[02-Sep-2015 10:41:07 UTC] ****************
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:41:07 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:41:59 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 10:41:59 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:43:58 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 10:43:58 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:44:33 UTC] ****************
+[02-Sep-2015 10:44:33 UTC] accelerate
+[02-Sep-2015 10:44:33 UTC] ****************
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:44:33 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:45:55 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 10:45:55 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:45:58 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 10:45:58 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:46:14 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:46:14 UTC] ****************
+[02-Sep-2015 10:46:14 UTC] accelerate
+[02-Sep-2015 10:46:14 UTC] ****************
+[02-Sep-2015 10:46:14 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:46:15 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:46:26 UTC] ****************
+[02-Sep-2015 10:46:26 UTC] accelerate
+[02-Sep-2015 10:46:26 UTC] ****************
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:46:26 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:47:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 53
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:47:41 UTC] ****************
+[02-Sep-2015 10:47:41 UTC] accelerate
+[02-Sep-2015 10:47:41 UTC] /home/www1/wordpress/wp-content/themes/accelerate
+[02-Sep-2015 10:47:41 UTC] ****************
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:47:41 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:47:46 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:47:46 UTC] ****************
+[02-Sep-2015 10:47:46 UTC] accelerate
+[02-Sep-2015 10:47:46 UTC] /home/www1/wordpress/wp-content/themes/accelerate
+[02-Sep-2015 10:47:46 UTC] ****************
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 10:47:47 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 10:48:08 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 10:48:08 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 10:49:08 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 10:49:08 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:05:25 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:05:25 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:05:49 UTC] ****************
+[02-Sep-2015 11:05:49 UTC] accelerate
+[02-Sep-2015 11:05:49 UTC] /home/www1/wordpress/wp-content/themes/accelerate
+[02-Sep-2015 11:05:49 UTC] ****************
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 400
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined variable: content in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 285
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: image_width in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: image_height in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 421
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 440
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 486
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 517
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined variable: wpmFonts in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 518
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined variable: addBImage in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 521
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: newletter_size in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 534
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: newletter_font_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 535
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: newletter_font_weigth in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 536
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: newletter_font_text in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 537
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: font_title_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 541
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: font_text_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 552
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined index: font_bottom_style in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 566
+[02-Sep-2015 11:05:49 UTC] PHP Notice:  Undefined variable: wysijaStyle in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 626
+[02-Sep-2015 11:05:53 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:05:53 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:06:25 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:06:25 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: action in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 8
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 110
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 179
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: b_enable_image in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 379
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: b_fixed_image in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 413
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 432
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: active_cpt_s in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 466
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 467
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: author in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 571
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: contributor in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 571
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: editor in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 571
+[02-Sep-2015 11:06:30 UTC] PHP Notice:  Undefined index: subscriber in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 571
+[02-Sep-2015 11:07:32 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:07:32 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: analytics in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 110
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: newletter in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 179
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: b_enable_image in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 379
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: b_fixed_image in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 413
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: active_cpt in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 432
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: active_cpt_s in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 466
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 467
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: author in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 571
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: contributor in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 571
+[02-Sep-2015 11:07:34 UTC] PHP Notice:  Undefined index: subscriber in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance-admin.php on line 571
+[02-Sep-2015 11:07:37 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:07:37 UTC] ****************
+[02-Sep-2015 11:07:37 UTC] accelerate
+[02-Sep-2015 11:07:37 UTC] /home/www1/wordpress/wp-content/themes/accelerate
+[02-Sep-2015 11:07:37 UTC] ****************
+[02-Sep-2015 11:07:38 UTC] PHP Notice:  Undefined index: disable in /home/www1/wordpress/wp-content/plugins/wp-maintenance/wp-maintenance.php on line 334
+[02-Sep-2015 11:07:38 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:07:47 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:07:47 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:07:48 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:07:51 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:07:51 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:07:51 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:07:58 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:07:58 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:07:59 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:08:04 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:08:04 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:08:04 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:08:28 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:08:28 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:08:28 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:08:33 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:08:33 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:08:34 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:08:34 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:08:34 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:08:36 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:08:36 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:08:36 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622
+[02-Sep-2015 11:08:38 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:08:38 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:08:39 UTC] PHP Notice:  Undefined index: preview_theme in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 43
+[02-Sep-2015 11:08:39 UTC] PHP Notice:  Undefined index: preview_css in /home/www1/wordpress/wp-content/plugins/theme-preview/theme-preview.php on line 44
+[02-Sep-2015 11:08:39 UTC] PHP Notice:  WP_Admin_Bar::add_node est appelée de la mauvaise manière. L&rsquo;identifiant du menu ne devrait pas être vide. Veuillez consulter la page <a href="https://codex.wordpress.org/Debugging_in_WordPress">Débugger dans WordPress (en)</a> pour plus d&rsquo;informations. (Ce message a été ajouté à la version 3.3.) in /home/www1/wordpress/wp-includes/functions.php on line 3622

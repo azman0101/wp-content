@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Salon &#8211; Karolina Dantin</title>
+	<atom:link href="/tag/salon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cabinet de Naturopathie &#38; Sophrologie - Draveil Essonne</description>
+	<lastBuildDate>Fri, 05 May 2017 08:16:35 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/11/goutte.png</url>
+	<title>Salon &#8211; Karolina Dantin</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">98140138</site>	<item>
+		<title>Salon Zen et Bien-être</title>
+		<link>/2016/09/16/salon-zen-et-bien-etre/</link>
+		<comments>/2016/09/16/salon-zen-et-bien-etre/#respond</comments>
+		<pubDate>Fri, 16 Sep 2016 12:04:40 +0000</pubDate>
+		<dc:creator><![CDATA[Karolina Dantin]]></dc:creator>
+				<category><![CDATA[Salons]]></category>
+		<category><![CDATA[Bien-êtree]]></category>
+		<category><![CDATA[Salon]]></category>
+		<category><![CDATA[Zen]]></category>
+
+		<guid isPermaLink="false">/?p=1271</guid>
+		<description><![CDATA[J&#8217;aurai le plaisir de vous retrouver au premier salon Zen et Bien-être organisé à Combs La Ville. RDV le 1er et le 2 octobre prochains sur mon stand à la salle des fêtes André Malraux. J&#8217;animerai également une conférence le samedi à 16h45 intitulée &#171;&#160;A la découverte des fleurs de Bach&#171;&#160;. Je vous y attend [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>J&rsquo;aurai le plaisir de vous retrouver au premier salon Zen et Bien-être organisé à <strong>Combs La Ville</strong>.</p>
+<p>RDV le <strong>1er et le 2 octobre</strong> prochains sur mon stand à la salle des fêtes André Malraux. <strong>J&rsquo;animerai également une conférence le samedi à 16h45 intitulée &laquo;&nbsp;<a href="/fleurs-de-bach/">A la découverte des fleurs de Bach</a>&laquo;&nbsp;.</strong></p>
+<p>Je vous y attend nombreux.</p>
+<p>A bientôt</p>
+<p>Karolina Dantin</p>
+<p><img data-attachment-id="1277" data-permalink="/2016/09/16/salon-zen-et-bien-etre/14344733_524516824400599_2933810921041173667_n-2/" data-orig-file="/wp-content/uploads/2016/09/14344733_524516824400599_2933810921041173667_n-1.jpg" data-orig-size="428,604" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="14344733_524516824400599_2933810921041173667_n" data-image-description="" data-medium-file="/wp-content/uploads/2016/09/14344733_524516824400599_2933810921041173667_n-1-213x300.jpg" data-large-file="/wp-content/uploads/2016/09/14344733_524516824400599_2933810921041173667_n-1.jpg" class="alignright wp-image-1277 size-full" src="/wp-content/uploads/2016/09/14344733_524516824400599_2933810921041173667_n-1.jpg" alt="14344733_524516824400599_2933810921041173667_n" width="428" height="604" srcset="/wp-content/uploads/2016/09/14344733_524516824400599_2933810921041173667_n-1.jpg 428w, /wp-content/uploads/2016/09/14344733_524516824400599_2933810921041173667_n-1-213x300.jpg 213w" sizes="(max-width: 428px) 100vw, 428px" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2016/09/16/salon-zen-et-bien-etre/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1271</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Mise en cache objet de 1191/1196 objets utilisant apc
+Mise en cache utilisant apc 
+Mise en cache de base de données utilisant apc 
+
+ Served from: www.karolinadantin.fr @ 2017-05-17 14:42:08 by W3 Total Cache -->
